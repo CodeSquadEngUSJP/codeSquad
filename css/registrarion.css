@@ -217,6 +217,10 @@ top:1px;
 }
 
 @media(max-width:767px) {
+    #bb1{
+        /* float: left; */
+        /* margin-top:40px; */
+    }
     .timeline {
         width: 100%;
         padding-bottom: 0;

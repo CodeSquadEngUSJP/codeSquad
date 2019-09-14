@@ -286,6 +286,9 @@
 }
 
 @media only screen and (max-width: 460px) {
+  #NewRegistration .next-btn {
+    float: center;
+  }
   #NewRegistration .step-content.one {
     height: 350px;
     width: 100%;
