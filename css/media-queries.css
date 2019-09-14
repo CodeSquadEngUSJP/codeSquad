@@ -393,6 +393,11 @@
   -------------------------------------------------------------------------- */
 @media only screen and (max-width: 420px) { 
 
+   .im1{
+      margin: 5px;
+      width: 100%;
+   }
+
     header {
       height: 70px;
       width: 100%;
